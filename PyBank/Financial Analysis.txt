@@ -1,8 +1,0 @@
-Financial Analysis
-------------------------------
-Total Months: 86
-The Average Revenue Change: $ -2315.1176470588234
-The Greatest increase in revenue is 1926159
-The Greatest month is  Feb-2012
-The lowest rev is -2196167
-The worst month has been  Sep-2013
